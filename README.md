@@ -1,4 +1,4 @@
-# Unit 10—A Yen for the Future
+# A Yen for the Future
 
 ![Yen Photo](Images/readme-photo.png)
 
